@@ -1,0 +1,83 @@
+{
+  "Project": "",
+  "Username": "leo.forster",
+  "Url": "https://jira.krebsregister-rlp.de",
+  "AssignCommand": [
+    "assign",
+    "as"
+  ],
+  "ChangeProjectCommand": [
+    "change",
+    "cd",
+    "c"
+  ],
+  "CheckInCommand": [
+    "checkin",
+    "ci"
+  ],
+  "CheckOutCommand": [
+    "checkout",
+    "co"
+  ],
+  "DeleteIssueCommand": [
+    "delete",
+    "d"
+  ],
+  "ExitCommand": [
+    "exit",
+    "x",
+    "quit",
+    "q"
+  ],
+  "HelpCommand": [
+    "help",
+    "h"
+  ],
+  "ListProjectIssuesCommand": [
+    "lsp"
+  ],
+  "ListUserIssuesCommand": [
+    "list",
+    "ls"
+  ],
+  "LogOutCommand": [
+    "logout",
+    "lo"
+  ],
+  "MoveIssueCommand": [
+    "move",
+    "m"
+  ],
+  "OpenCommand": [
+    "open",
+    "o"
+  ],
+  "SettingsCommand": [
+    "settings",
+    "s"
+  ],
+  "TestCommand": [
+    "test"
+  ],
+  "WorklogCommand": [
+    "worklog",
+    "w",
+    "wl"
+  ],
+  "DisposeParameter": [
+    "dispose",
+    "discard",
+    "d"
+  ],
+  "ForceParameter": [
+    "force",
+    "f"
+  ],
+  "NotAssignedParameter": [
+    "nichtzugewiesen",
+    "n",
+    "notassigned",
+    "na"
+  ],
+  "FilePath": "JCA_Settings.json"
+}

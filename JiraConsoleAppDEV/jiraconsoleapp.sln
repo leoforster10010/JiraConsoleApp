@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JiraConsoleApp", "jiraconsoleapp\JiraConsoleApp.csproj", "{D884879D-9463-4735-A4B0-C386CC4EC9EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D884879D-9463-4735-A4B0-C386CC4EC9EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D884879D-9463-4735-A4B0-C386CC4EC9EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D884879D-9463-4735-A4B0-C386CC4EC9EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D884879D-9463-4735-A4B0-C386CC4EC9EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4654FA60-77CC-489F-BF2F-8E86D8025424}
+	EndGlobalSection
+EndGlobal
